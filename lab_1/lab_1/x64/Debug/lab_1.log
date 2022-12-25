@@ -1,0 +1,8 @@
+﻿  lab_1.cpp
+C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\lab_1\lab_1.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\lab_1\lab_1.cpp(118,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\lab_1\lab_1.cpp(219,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\lab_1\lab_1.cpp(220,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\lab_1\lab_1.cpp(99): warning C4715: Hammurabi::twoOpMenu: значение возвращается не при всех путях выполнения
+C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\lab_1\lab_1.cpp(257): warning C4715: Hammurabi::startGame: значение возвращается не при всех путях выполнения
+  lab_1.vcxproj -> C:\Users\ialex\OneDrive\Документы\repos\algorithms_gamedev\lab_1\x64\Debug\lab_1.exe
