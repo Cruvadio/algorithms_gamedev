@@ -153,10 +153,10 @@ int Array<T>::insert(int index, const T& value)
 	}
 	else 
 	{
-		new (pitems_ + size) T();
+		new (pitems_ + size) pitems_[size_ - 1];
 		if (size > index)
 		{
-			for (int i = size_; i > index; i--)
+			for (int i = size_ - 1; i > index; i--)
 			{
 				pitems_[i] = std::move(pitems_[i - 1]);
 			}
